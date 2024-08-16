@@ -1,0 +1,4 @@
+step.1 ->  create model classes
+step.2 ->  Get ready your controller and basic interaction with the client
+step.3 -> Make sure that every model has a constructor
+step 4 -> Implement the functionalities one by one
